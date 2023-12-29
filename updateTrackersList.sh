@@ -4,7 +4,7 @@
 QBITTORRENT_SERVER="localhost";
 QBITTORRENT_PORT=8080;
 
-LOG_FILE=/config/trackers-list/port.log
+LOG_FILE=/config/trackers-list/updateTrackersList.log
 
 if [ ! -e "$LOG_FILE" ] ; then
     mkdir -p /config/trackers-list
