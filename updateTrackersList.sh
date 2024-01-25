@@ -1,4 +1,8 @@
 #!/bin/bash
+
+# OBSOLETE. NOW BUILT INTO HOTIO CONTAINER
+# SEE https://hotio.dev/containers/wireguard/
+
 #Retrieve latest tracker list and apply
 
 QBITTORRENT_SERVER="localhost";
